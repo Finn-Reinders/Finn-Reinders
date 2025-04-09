@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://cdn-www.bluestacks.com/bs-images/rayman-jungle-run_banner.jpg"  />
+  <img height="300" src="https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwfc47d629/images/pdpbanner/56c4948888a7e300458b47dc.jpg?sw=768&sfrm=jpg"  />
 </div>
 
 ###
