@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://interfaceingame.com/wp-content/uploads/rayman-legends/rayman-legends-banner.jpg"  />
+  <img height="175" src="https://interfaceingame.com/wp-content/uploads/rayman-legends/rayman-legends-banner.jpg"  />
 </div>
 
 ###
