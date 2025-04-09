@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://cdn2.steamgriddb.com/hero/47a878d199b3fcb8447a9a1b3a78ee73.png"  />
+  <img height="250" src="https://interfaceingame.com/wp-content/uploads/rayman-legends/rayman-legends-banner.jpg"  />
 </div>
 
 ###
