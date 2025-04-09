@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://cdn2.steamgriddb.com/hero/336e4fcc43c1194d7bb9c8fc6188e9b3.png"  />
+  <img height="400" src="https://cdn-www.bluestacks.com/bs-images/rayman-jungle-run_banner.jpg"  />
 </div>
 
 ###
