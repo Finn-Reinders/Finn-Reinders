@@ -18,16 +18,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Finn-Reinders/Finn-Reinders/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Finn-Reinders/Finn-Reinders/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Finn-Reinders/Finn-Reinders/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
-  <img height="400" src="https://cdn2.steamgriddb.com/hero/336e4fcc43c1194d7bb9c8fc6188e9b3.png"  />
+  <img height="" src="https://cdn2.steamgriddb.com/hero/336e4fcc43c1194d7bb9c8fc6188e9b3.png"  />
 </div>
 
 ###
