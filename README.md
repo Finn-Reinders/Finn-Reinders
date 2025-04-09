@@ -22,6 +22,10 @@
 ###
 
 <h2>👨🏼‍💻 About Me:</h2>   
+<li> 🌱 This is my first year software development</li>
+<li> 🕸️ Focusing on Javascript and CSS</li>
+<li> 💬 You can message me on Discord if you need anything</li>
+<li> 🔗 Currently working on <a href="Finn-Reinders.github.io">The Hub</a></li>
 
 <h2>❤️ You can contact me via:</h2>
 
