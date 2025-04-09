@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwfc47d629/images/pdpbanner/56c4948888a7e300458b47dc.jpg?sw=768&sfrm=jpg"  />
+  <img height="250" src="https://cdn2.steamgriddb.com/hero/47a878d199b3fcb8447a9a1b3a78ee73.png"  />
 </div>
 
 ###
