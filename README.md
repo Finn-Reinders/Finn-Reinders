@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="250" src="./Untitled1.png"  />
-</div>
-
-###
-
 
 <h2 align="left">📃 Here's a list of languages I'm currently exploring and learning:</h3>
 
