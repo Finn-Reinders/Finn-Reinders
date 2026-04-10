@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Finn and I am an 18-year-old software development student at SintLucas in Eindhoven. I specialize in Front-End web developement</p>
+<p align="left">My name is Finn and I am an 18-year-old software development student at SintLucas in Eindhoven. I specialize in Front-End web developement.</p>
 
 ###
 
@@ -45,7 +45,7 @@
   <a href="mailto:finn.reinders@sintlucasedu.nl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://https://www.instagram.com/finn_reinders/" target="_blank">
+  <a href="https://www.instagram.com/finn_reinders/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/745020533321760858" target="_blank">
