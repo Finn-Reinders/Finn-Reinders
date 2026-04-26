@@ -1,5 +1,3 @@
-<img align="right" height="200" src="https://i.pinimg.com/736x/4a/9d/32/4a9d3214fccc0f4ce3dca8b2bce25a73.jpg"  />
-
 ###
 
 <h1 align="center">Welcome to my GitHub profile.</h1>
